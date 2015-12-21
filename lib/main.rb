@@ -2,7 +2,7 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-print "hello world !"
+print "hello world !\n"
 
 
 sum = 0
@@ -12,3 +12,7 @@ while i < 100
   i = i + 1
 end
   puts sum
+  
+5.times do
+  puts "hello world !"
+end
