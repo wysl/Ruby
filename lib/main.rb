@@ -2,4 +2,13 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-puts "Hello World"
+print "hello world !"
+
+
+sum = 0
+i = 1
+while i < 100
+  sum = sum +i
+  i = i + 1
+end
+  puts sum
